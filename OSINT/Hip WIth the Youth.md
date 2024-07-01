@@ -12,7 +12,7 @@ Ok, so we first go onto Instagram and try to find LISA
 ![Instragram Search for LISA](/images/HipWithTheYouthLISA_IG_search.png)
 ![LISA's Instragram account](/images/HipWithTheYouthLISA_IG_account.png)
 
-After looking through the posts, there was nothing of interest so we move onto the Threads account that was linked.
+After looking through the posts, there was nothing of interest so we move onto the Threads account that is linked.
 
 ![LISA's Threads account](/images/HipWithTheYouthLISA_Threads_account.png)
 
