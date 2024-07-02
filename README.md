@@ -14,7 +14,11 @@
     - [Sanity Check](https://github.com/EnchLolz/UIUCTF-2024/blob/main/MISC/Sanity%20Check.md)
     - [Slot Machine](https://github.com/EnchLolz/UIUCTF-2024/blob/main/MISC/Slot%20Machine.md)
 - ### Osint
-
+    - [Hip With the Youth](https://github.com/EnchLolz/UIUCTF-2024/blob/main/OSINT/Hip%20With%20the%20Youth.md)
+    - [An Unlikely Partnership](https://github.com/EnchLolz/UIUCTF-2024/blob/main/OSINT/An%20Unlikely%20Partnership.md)
+    - [The Weakest Link](https://github.com/EnchLolz/UIUCTF-2024/blob/main/OSINT/The%20Weakest%20Link.md)
+    - [Night](https://github.com/EnchLolz/UIUCTF-2024/blob/main/OSINT/Night.md)
+    - [Chunky Boi](https://github.com/EnchLolz/UIUCTF-2024/blob/main/OSINT/Chunky%20Boi.md)
 - ### Pwn
 
 - ### Rev
