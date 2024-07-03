@@ -1,6 +1,8 @@
 # An Unlikely Partnership
 Category: OSINT
+
 Points: 100
+
 Solves: 511
 
 ### Solution

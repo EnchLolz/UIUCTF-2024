@@ -1,6 +1,8 @@
 # Slot Machine
 Category: MISC
+
 Points: 453
+
 Solves: 76
 
 ### TLDR

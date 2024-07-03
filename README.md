@@ -20,9 +20,9 @@
     - [Night](https://github.com/EnchLolz/UIUCTF-2024/blob/main/OSINT/Night.md)
     - [Chunky Boi](https://github.com/EnchLolz/UIUCTF-2024/blob/main/OSINT/Chunky%20Boi.md)
 - ### Pwn
-
+    - Maybe one day lmao
 - ### Rev
-
+    - [Summarize](https://github.com/EnchLolz/UIUCTF-2024/blob/main/REV/Summarize.md)
 - ### Web
 
 

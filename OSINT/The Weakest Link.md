@@ -1,6 +1,8 @@
 # The Weakest Link
 Category: OSINT
+
 Points: 393
+
 Solves: 149
 
 ### Solution

@@ -1,6 +1,8 @@
 # Night
 Category: OSINT
+
 Points: 121
+
 Solves: 466
 
 ### Solution

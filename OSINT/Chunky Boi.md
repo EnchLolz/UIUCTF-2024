@@ -1,6 +1,8 @@
 # Chunky Boi
 Category: OSINT
+
 Points: 319
+
 Solves: 225
 
 ### Solution

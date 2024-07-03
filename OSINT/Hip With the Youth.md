@@ -1,6 +1,8 @@
 # Hip With the Youth
 Category: OSINT
+
 Points: 81
+
 Solves: 567
 
 ### Solution

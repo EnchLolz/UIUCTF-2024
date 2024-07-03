@@ -1,6 +1,8 @@
 # Summarize
 Category: Rev
+
 Points: 381
+
 Solves: 161
 
 ### Solution

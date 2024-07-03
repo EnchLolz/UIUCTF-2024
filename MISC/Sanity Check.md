@@ -1,6 +1,8 @@
 # Sanity Check
 Category: MISC
+
 Points: 1
+
 Solves: 757
 
 just go to the discord lol
