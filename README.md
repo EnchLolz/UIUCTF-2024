@@ -24,6 +24,7 @@
 - ### Rev
     - [Summarize](https://github.com/EnchLolz/UIUCTF-2024/blob/main/REV/Summarize.md)
 - ### Web
+    - [Fare Evasion](https://github.com/EnchLolz/UIUCTF-2024/blob/main/WEB/Fare%20Evasion.md)
 
 
 
