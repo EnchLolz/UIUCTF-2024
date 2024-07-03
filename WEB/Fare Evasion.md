@@ -27,11 +27,17 @@ Finally, we sign our token with the conductor key, getting `eyJhbGciOiJIUzI1NiIs
     ```js
     <script>
         async function pay() {
+            // i could not get sqlite to work on the frontend :(
+            /*
+                db.each(`SELECT * FROM keys WHERE kid = '${md5(headerKid)}'`, (err, row) => {
+                ???????
+            */
             const r = await fetch("/pay", { method: "POST" });
             const j = await r.json();
             document.getElementById("alert").classList.add("opacity-100");
+            // todo: convert md5 to hex string instead of latin1??
             document.getElementById("alert").innerText = j["message"];
-            setTimeout(() => { document.getElementById("alert").classList.remove("opacity-100") }, 5000);
+            setTimeout(() => { document.getElementById("alert").classList.remove    ("opacity-100") }, 5000);
         }
     </script>
     ```
