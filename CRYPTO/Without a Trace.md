@@ -107,7 +107,7 @@ a \cdot v & 0 & 0 & 0 & 0 \\
 \end{pmatrix}
 \]
 
-This means that we are just getting `flag1*inp1 + ... + flag5\*inp5`. We can just enter a diagonal of 1's to gain the sum of flag parts. Next we enter diag (2, 1, 1, 1, 1). Subtracting the resulting numbers will give us the first flag part. We now do this for the other 4 indicies.
+This means that we are just getting `flag1*inp1 + ... + flag5*inp5`. We can just enter a diagonal of 1's to gain the sum of flag parts. Next we enter diag (2, 1, 1, 1, 1). Subtracting the resulting numbers will give us the first flag part. We now do this for the other 4 indicies.
 
 ![diag of 1](/images/WithoutATrace1.png)
 
