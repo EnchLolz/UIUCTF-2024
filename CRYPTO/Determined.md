@@ -106,21 +106,21 @@ def fun(M):
 ```
 
 
-The function `fun` computes the determinant of a $\(5 \times 5\) matrix \(M\)$ using the [definition involving permutations](https://en.wikipedia.org/wiki/Determinant#n_%C3%97_n_matrices).
+The function `fun` computes the determinant of a $\(5 \times 5\)$ matrix $\(M\)$ using the [definition involving permutations](https://en.wikipedia.org/wiki/Determinant#n_%C3%97_n_matrices).
 
 1. **Define `sign(sigma)` function**:
-    - This nested function computes the sign (or signature) of a permutation \(\sigma\). The sign is determined by the number of inversions in the permutation.
-    - If the number of inversions is even, the sign is \(+1\); if odd, the sign is \(-1\).
+    - This nested function computes the sign (or signature) of a permutation $\sigma$. The sign is determined by the number of inversions in the permutation.
+    - If the number of inversions is even, the sign is $+1$; if odd, the sign is $-1$.
 
 2. **Initialize `res` to 0**:
     - `res` will store the sum of the terms of the determinant expansion.
 
-3. **Iterate over all permutations of \([0,1,2,3,4]\)**:
+3. **Iterate over all permutations of $[0,1,2,3,4]$**:
 
     - For each permutation `sigma`, the function computes the corresponding term in the determinant expansion.
 
 4. **Compute the product of elements for the current permutation**:
-    - For each permutation `sigma`, compute the product of matrix elements \(M[\sigma[i]][i]\) for \(i\) from 0 to 4. This represents one term in the determinant formula.
+    - For each permutation `sigma`, compute the product of matrix elements $M[\sigma[i]][i]$ for $i$ from 0 to 4. This represents one term in the determinant formula.
 
 5. **Multiply the product by the sign of the permutation**:
     - Multiply the computed product by the sign of the permutation (`sign(sigma)`).
@@ -129,7 +129,7 @@ The function `fun` computes the determinant of a $\(5 \times 5\) matrix \(M\)$ u
     - Accumulate the result in `res`.
 
 7. **Return `res`**:
-    - Finally, return `res`, which is the determinant of the matrix \(M\).
+    - Finally, return `res`, which is the determinant of the matrix $M$.
 
 Or we could just guess that it's the determinant from the name of this challenge!!!
 
