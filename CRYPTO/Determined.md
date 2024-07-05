@@ -58,9 +58,9 @@ def inputs():
         M[4][0] = int(input("[DET] M[4][0] = "))
 ```
 
-We are asked to enter some values in a \(5 \times 5\) matrix. After carefully drawing out the \(5 \times 5\) matrix we get:
+We are asked to enter some values in a $\(5 \times 5\)$ matrix. After carefully drawing out the $\(5 \times 5\)$ matrix we get:
 
-\[
+```math
 \begin{pmatrix}
 p & 0 & a & 0 & b \\
 0 & c & 0 & d & 0 \\
@@ -68,7 +68,7 @@ e & 0 & f & 0 & g \\
 0 & q & 0 & r & 0 \\
 j & 0 & k & 0 & 0
 \end{pmatrix}
-\]
+```
 
 where $a,b,c,d,e,f,g,j,k$ are the inputs and $p,q,r$ are the hidden values.
 
@@ -106,7 +106,7 @@ def fun(M):
 ```
 
 
-The function `fun` computes the determinant of a \(5 \times 5\) matrix \(M\) using the [definition involving permutations](https://en.wikipedia.org/wiki/Determinant#n_%C3%97_n_matrices).
+The function `fun` computes the determinant of a $\(5 \times 5\) matrix \(M\)$ using the [definition involving permutations](https://en.wikipedia.org/wiki/Determinant#n_%C3%97_n_matrices).
 
 1. **Define `sign(sigma)` function**:
     - This nested function computes the sign (or signature) of a permutation \(\sigma\). The sign is determined by the number of inversions in the permutation.
