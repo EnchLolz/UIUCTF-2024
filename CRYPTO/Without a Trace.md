@@ -85,7 +85,12 @@ a & 0 & 0 & 0 & 0 \\
 0 & 0 & 0 & 0 & e
 \end{pmatrix}
 
-
+\space
+\space
+\space
+\space
+\space
+\space
 
 \mathbf{B} = \begin{pmatrix}
 v & 0 & 0 & 0 & 0 \\
