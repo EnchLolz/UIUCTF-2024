@@ -9,7 +9,8 @@
 ## Categories
 
 - ### Crypto
-
+    - [Without a Trace](https://github.com/EnchLolz/UIUCTF-2024/blob/main/CRYPTO/Without%20a%20Trace.md)
+    - [Determined](https://github.com/EnchLolz/UIUCTF-2024/blob/main/CRYPTO/Determined.md)
 - ### Misc
     - [Sanity Check](https://github.com/EnchLolz/UIUCTF-2024/blob/main/MISC/Sanity%20Check.md)
     - [Slot Machine](https://github.com/EnchLolz/UIUCTF-2024/blob/main/MISC/Slot%20Machine.md)
