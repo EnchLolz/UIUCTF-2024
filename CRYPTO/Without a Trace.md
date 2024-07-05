@@ -75,8 +75,8 @@ def fun(M):
 Finally they hide parts of the flag in the diagonal of another matrix, multiply the two matrices, and return the sum of the diagonal.
 
 The matrix multiplication is rather simple:
-$
-\[
+```math
+
 \mathbf{A} = \begin{pmatrix}
 a & 0 & 0 & 0 & 0 \\
 0 & b & 0 & 0 & 0 \\
@@ -84,9 +84,9 @@ a & 0 & 0 & 0 & 0 \\
 0 & 0 & 0 & d & 0 \\
 0 & 0 & 0 & 0 & e
 \end{pmatrix}
-\]
 
-\[
+
+
 \mathbf{B} = \begin{pmatrix}
 v & 0 & 0 & 0 & 0 \\
 0 & w & 0 & 0 & 0 \\
@@ -94,13 +94,11 @@ v & 0 & 0 & 0 & 0 \\
 0 & 0 & 0 & y & 0 \\
 0 & 0 & 0 & 0 & z
 \end{pmatrix}
-\]
-$
+```
 
 The resulting matrix $\(\mathbf{C}\)$ from the product $\(\mathbf{A} \times \mathbf{B}\)$ is:
 
-$
-\[
+```math
 \mathbf{C} = \mathbf{A} \times \mathbf{B} = \begin{pmatrix}
 a \cdot v & 0 & 0 & 0 & 0 \\
 0 & b \cdot w & 0 & 0 & 0 \\
@@ -108,8 +106,8 @@ a \cdot v & 0 & 0 & 0 & 0 \\
 0 & 0 & 0 & d \cdot y & 0 \\
 0 & 0 & 0 & 0 & e \cdot z
 \end{pmatrix}
-\]
-$
+```
+
 This means that we are just getting `flag1*inp1 + ... + flag5*inp5`. We can just enter a diagonal of 1's to gain the sum of flag parts. Next we enter diag (2, 1, 1, 1, 1). Subtracting the resulting numbers will give us the first flag part. We now do this for the other 4 indicies.
 
 ![diag of 1](/images/WithoutATrace1.png)
