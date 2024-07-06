@@ -13,6 +13,7 @@
     - [Determined](https://github.com/EnchLolz/UIUCTF-2024/blob/main/CRYPTO/Determined.md)
 - ### Misc
     - [Sanity Check](https://github.com/EnchLolz/UIUCTF-2024/blob/main/MISC/Sanity%20Check.md)
+    - [Feedback Survey](https://github.com/EnchLolz/UIUCTF-2024/blob/main/MISC/Feedback%20Survery.md)
     - [Slot Machine](https://github.com/EnchLolz/UIUCTF-2024/blob/main/MISC/Slot%20Machine.md)
 - ### Osint
     - [Hip With the Youth](https://github.com/EnchLolz/UIUCTF-2024/blob/main/OSINT/Hip%20With%20the%20Youth.md)
